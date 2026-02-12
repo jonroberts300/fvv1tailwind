@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://finalversionv1.com/</loc>
+    <lastmod>2024-02-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <!-- Add more pages here as you create them -->
+  <!-- Example:
+  <url>
+    <loc>https://finalversionv1.com/projects/project-name</loc>
+    <lastmod>2024-02-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  -->
+</urlset>
